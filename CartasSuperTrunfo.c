@@ -60,7 +60,7 @@ getchar();
         printf("Numeros de pontos turisticos");
         scanf("%d", &NPontosTur2);
 getchar();
-//imprimindo carta1
+//imprimindo carta1 e carta2
 printf("======Imprimindo infomracoes======\n");
 printf("Estado1: %c\t\tEstado2: %c\n", Estado1, Estado2);
 printf("Codigo1: %s\t\tCodigo2: %s\n", Codigo1, Codigo2);
